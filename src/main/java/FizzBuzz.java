@@ -18,7 +18,7 @@ public class FizzBuzz {
             }
             else if (j % 3 ==0)
             {
-                System.out.println("Fizz");\
+                System.out.println("Fizz");
             }
             else if (j % 5 ==0)
                 System.out.println("Buzz");
