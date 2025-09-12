@@ -16,12 +16,12 @@ public class FizzBuzz {
             {
                 System.out.println("FizzBuzz");
             }
-            else if (j % 3 ==0)
-            {
+            else if (j % 3 ==0) {
                 System.out.println("Fizz");
             }
-            else if (j % 5 ==0)
+            else if (j % 5 ==0) {
                 System.out.println("Buzz");
+            }
             else
             {
                 System.out.println(j);
