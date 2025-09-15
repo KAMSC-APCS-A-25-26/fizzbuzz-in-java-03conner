@@ -24,7 +24,7 @@ public class FizzBuzz {
             }
             else
             {
-                System.out.println(j);
+                System.out.println(j); 
             }
         }
     }
