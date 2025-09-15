@@ -11,7 +11,8 @@ public class FizzBuzz {
     public static void main(String[] args) {
         // TODO
         for (int j = 1; j <= 100; j++) {
-            if (j % 15 == 0) {
+            if (j % 15 == 0)
+            {
                 System.out.println("FizzBuzz");
             }
             else if (j % 3 ==0) {
